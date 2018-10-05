@@ -1,11 +1,8 @@
 # market
-react-native
-
-yarn install
+react-native demo
 
 ### test
-
-|Type|Flutter|ReactNative|
+|Phone|Flutter|ReactNative|
 |-----|-----|-----|
 |荣耀v10|1ms|15ms|
 |三星S6|1ms|25ms|
